@@ -20,6 +20,9 @@ section#contact {
       height: 248px;
     }
   }
+  .contact-text{
+    color: $white !important;
+  }
   .form-control:focus {
     border-color: $primary;
     box-shadow: none;
